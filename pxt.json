@@ -1,10 +1,11 @@
 {
-    "name": "dfa",
+    "name": "bitbot",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "BitBot": "github:4tronix/bitbot#1.5.2"
     },
     "files": [
         "main.blocks",
